@@ -36,7 +36,8 @@
 <h3 align="center">Hello Everyone ! Welcome to this Project Section !</h3>
 
   <p align="center">
-    I'm Soufiane from Morocco. I'm an industrial engineering student and a machine learning and data science enthusiast. I also build web apps both frontend and backend. 
+    <strong>I'm Soufiane from Morocco. I'm an industrial engineering student and a machine learning and data science enthusiast. I also build web apps both frontend and backend. </strong>
+    <br />
     <br />
     Please scroll down to know more about this project
     <br />
@@ -53,7 +54,6 @@
 
 
 
-
 <!-- Add banner here -->
 ![Banner](https://github.com/Dahimi/SQL-and-Data-Visualization-Projects/blob/main/banner.jpg)
 
@@ -61,11 +61,11 @@
 
 <!-- Add buttons here -->
 
-![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/navendu-pottekkat/awesome-readme?include_prereleases)
-![GitHub last commit](https://img.shields.io/github/last-commit/navendu-pottekkat/awesome-readme)
-![GitHub issues](https://img.shields.io/github/issues-raw/navendu-pottekkat/awesome-readme)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/navendu-pottekkat/awesome-readme)
-![GitHub](https://img.shields.io/github/license/navendu-pottekkat/awesome-readme)
+![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/Dahimi/awesome-readme?include_prereleases)
+![GitHub last commit](https://img.shields.io/github/last-commit/Dahimi/awesome-readme)
+![GitHub issues](https://img.shields.io/github/issues-raw/Dahimi/awesome-readme)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/Dahimi/awesome-readme)
+![GitHub](https://img.shields.io/github/license/Dahimi/awesome-readme)
 
 <!-- Describe your project in brief -->
 
@@ -78,8 +78,7 @@ Here is demo of the final resualts I got in this project
 ![Random GIF](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
 # Table of contents
-
-- [Project Title](#SQL and Visualization Projects)
+ 
 - [Demo-Preview](#demo-preview)
 - [Table of contents](#table-of-contents)
 - [Installation](#installation)
@@ -89,7 +88,6 @@ Here is demo of the final resualts I got in this project
 - [Footer](#footer)
 
 # Installation
-[(Back to top)](#table-of-contents)
 
 *You might have noticed the **Back to top** button(if not, please notice, it's right there!). This is a good idea because it makes your README **easy to navigate.*** 
 
@@ -107,13 +105,15 @@ To use this project, first clone the repo on your device using the command below
 
 ```git init```
 
-```git clone https://github.com/navendu-pottekkat/nsfw-filter.git```
+```git clone https://github.com/Dahimi/nsfw-filter.git```
+
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 # Usage
-[(Back to top)](#table-of-contents)
+
 
 This is optional and it is used to give the user info on how to use the project after installation. This could be added in the Installation section also.
-
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
 # Contribute
@@ -145,47 +145,30 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 # Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+- 📫 How to reach me:
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+<p align = 'center'>
+<a href='mailto:soufianedahimi01@gmail.com'><img src ='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'/></a> 
+<a href = 'https://www.linkedin.com/in/soufiane-dahimi/'><img src ='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/></a>
+<a href = 'https://github.com/Dahimi'><img src ='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'/></a>
+</p>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 # Footer
-[(Back to top)](#table-of-contents)
 
-Let's also add a footer because I love footers and also you **can** use this to convey important info.
+If you found this project helpful, feel free to leave a star in GitHub, and share thig project.
 
-Let's make it an image because by now you have realised that multimedia in images == cool(*please notice the subtle programming joke).
-
-So that is it... You have completed your training young grasshopper. Now it is time for you to use this ideas for your projects.
-
-Don't forget your **README Sensei**(*cool twitter handle idea*) when your project takes off with your **Awesome README**.
-
-Leave a star in GitHub, give a clap in Medium and share this guide if you found this helpful.
-
-**Now folks, the moment you've all been waiting for! The footer!**
-***[Audible gasp]***
-
-<!-- Add the footer here -->
-
-![Footer](https://github.com/navendu-pottekkat/awesome-readme/blob/master/fooooooter.png)
-
-
+**Now folks, it was great walking with you through this README! See you later**
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
 Here is a list of some of the resources I found helpful and would like to give credit to.
 
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
-* [Malven's Grid Cheatsheet](https://grid.malven.co/)
-* [Img Shields](https://shields.io)
-* [GitHub Pages](https://pages.github.com)
-* [Font Awesome](https://fontawesome.com)
-* [React Icons](https://react-icons.github.io/react-icons/search)
+* [Othneil Drew's awesome readme](https://github.com/othneildrew)
+* [Navendu Pottekkat's awesome readme](https://github.com/navendu-pottekkat)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
