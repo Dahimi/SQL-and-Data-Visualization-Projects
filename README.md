@@ -55,7 +55,7 @@
 
 
 <!-- Add banner here -->
-![Banner](https://github.com/Dahimi/SQL-and-Data-Visualization-Projects/blob/main/banner.png)
+![Banner](https://github.com/Dahimi/SQL-and-Data-Visualization-Projects/blob/main/banner.jpg)
 
 # SQL and Visualization Projects
 
@@ -71,38 +71,20 @@
 
 The project title should be self-explanatory and try not to make it a mouthful. (Although exceptions exist- **awesome-readme-writing-guide-for-open-source-projects** - would have been a cool name)
 
-Add a cover/banner image for your README. **Why?** Because it easily **grabs people's attention** and it **looks cool**(*duh!obviously!*).
-
-Wait, I forgot something. You can use this README as a template from [this link](README-template.md).
-
-The best dimensions for the banner is **1280x650px**. You could also use this for social preview of your repo.
-
-I personally use [**Canva**](https://www.canva.com/) for creating the banner images. All the basic stuff is **free**(*you won't need the pro version in most cases*).
-
 # Demo-Preview
 <!-- Add a demo for your project -->
-
-After you have written about your project, it is a good idea to have a demo/preview(**video/gif/screenshots** are good options) of your project so that people can know what to expect in your project. You could also add the demo in the previous section with the product description.
-
-Here is a random GIF as a placeholder.
+Here is demo of the final resualts I got in this project 
 
 ![Random GIF](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
 # Table of contents
 
-After you have introduced your project, it is a good idea to add a **Table of contents** or **TOC** as **cool** people say it. This would make it easier for people to navigate through your README and find exactly what they are looking for.
-
-Here is a sample TOC(*wow! such cool!*) that is actually the TOC for this README.
-
-- [Project Title](#project-title)
+- [Project Title](#SQL and Visualization Projects)
 - [Demo-Preview](#demo-preview)
 - [Table of contents](#table-of-contents)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Development](#development)
 - [Contribute](#contribute)
-    - [Sponsor](#sponsor)
-    - [Adding new features or fixing bugs](#adding-new-features-or-fixing-bugs)
 - [License](#license)
 - [Footer](#footer)
 
@@ -132,27 +114,42 @@ To use this project, first clone the repo on your device using the command below
 
 This is optional and it is used to give the user info on how to use the project after installation. This could be added in the Installation section also.
 
-# Development
-[(Back to top)](#table-of-contents)
 
-This is the place where you give instructions to developers on how to modify the code.
+<!-- CONTRIBUTING -->
+# Contribute
 
-You could give **instructions in depth** of **how the code works** and how everything is put together.
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
-You could also give specific instructions to how they can setup their development environment.
+If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
+Don't forget to give the project a star! Thanks again!
 
-Ideally, you should keep the README simple. If you need to add more complex explanations, use a wiki. Check out [this wiki](https://github.com/navendu-pottekkat/nsfw-filter/wiki) for inspiration.
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
 
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+
+<!-- LICENSE -->
 # License
-[(Back to top)](#table-of-contents)
 
-Adding the license to README is a good practice so that people can easily refer to it.
+Distributed under the MIT License. See `LICENSE.txt` for more information.
 
-Make sure you have added a LICENSE file in your project folder. **Shortcut:** Click add new file in your root of your repo in GitHub --> Set file name to LICENSE --> GitHub shows LICENSE templates ---> Choose the one that best suits your project!
+<p align="right">(<a href="#top">back to top</a>)</p>
 
-I personally add the name of the license and provide a link to it like below.
 
-[GNU General Public License version 3](https://opensource.org/licenses/GPL-3.0)
+
+<!-- CONTACT -->
+# Contact
+
+Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+
+Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 # Footer
 [(Back to top)](#table-of-contents)
@@ -179,7 +176,7 @@ Leave a star in GitHub, give a clap in Medium and share this guide if you found 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
+Here is a list of some of the resources I found helpful and would like to give credit to.
 
 * [Choose an Open Source License](https://choosealicense.com)
 * [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
