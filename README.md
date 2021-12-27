@@ -1,7 +1,63 @@
-<!-- Add banner here -->
-![Banner](https://github.com/navendu-pottekkat/awesome-readme/blob/master/header.png)
+<div id="top"></div>
+<!--
+*** Thanks for checking out the Best-README-Template. If you have a suggestion
+*** that would make this better, please fork the repo and create a pull request
+*** or simply open an issue with the tag "enhancement".
+*** Don't forget to give the project a star!
+*** Thanks again! Now go create something AMAZING! :D
+-->
 
-# Project Title
+
+
+<!-- PROJECT SHIELDS -->
+<!--
+*** I'm using markdown "reference style" links for readability.
+*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
+*** See the bottom of this document for the declaration of the reference variables
+*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
+*** https://www.markdownguide.org/basic-syntax/#reference-style-links
+-->
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
+
+
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://github.com/Dahimi/SQL-and-Data-Visualization-Projects">
+    <img src="p1.png" alt="Logo" width="80" height="80">
+  </a>
+
+<h3 align="center">Hello Everyone ! Welcome to this Project Section !</h3>
+
+  <p align="center">
+    I'm Soufiane from Morocco. I'm an industrial engineering student and a machine learning and data science enthusiast. I also build web apps both frontend and backend. 
+    <br />
+    Please scroll down to know more about this project
+    <br />
+    <a href="https://github.com/Dahimi/SQL-and-Data-Visualization-Projects"><strong>Explore other projects »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/Dahimi/SQL-and-Data-Visualization-Projects">View Demo</a>
+    ·
+    <a href="https://github.com/Dahimi/SQL-and-Data-Visualization-Projects/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/Dahimi/SQL-and-Data-Visualization-Projects/issues">Request Feature</a>
+  </p>
+</div>
+
+
+
+
+<!-- Add banner here -->
+![Banner](https://github.com/Dahimi/SQL-and-Data-Visualization-Projects/blob/main/banner.png)
+
+# SQL and Visualization Projects
 
 <!-- Add buttons here -->
 
@@ -22,35 +78,6 @@ Wait, I forgot something. You can use this README as a template from [this link]
 The best dimensions for the banner is **1280x650px**. You could also use this for social preview of your repo.
 
 I personally use [**Canva**](https://www.canva.com/) for creating the banner images. All the basic stuff is **free**(*you won't need the pro version in most cases*).
-
-*What are all those flashy thingies below the title?*
-
-Looks nice doesn't it? Those are called badges and they do improve the readability by giving some quick insights right?
-
-There are endless badges that you could use in your projects. And they do depend on the project. Some of the ones that I commonly use in every projects are given below. 
-
-I use [**Shields IO**](https://shields.io/) for making badges. It is a simple and easy to use tool that you can use for almost all your badge cravings.
-
-<!-- Add badges with link to Shields IO -->
-
-![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/navendu-pottekkat/awesome-readme?include_prereleases)
-: This badge shows the version of the current release.
-
-![GitHub last commit](https://img.shields.io/github/last-commit/navendu-pottekkat/awesome-readme)
-: I think it is self-explanatory. This gives people an idea about how the project is being maintained.
-
-![GitHub issues](https://img.shields.io/github/issues-raw/navendu-pottekkat/awesome-readme)
-: This is a dynamic badge from [**Shields IO**](https://shields.io/) that tracks issues in your project and gets updated automatically. It gives the user an idea about the issues and they can just click the badge to view the issues.
-
-![GitHub pull requests](https://img.shields.io/github/issues-pr/navendu-pottekkat/awesome-readme)
-: This is also a dynamic badge that tracks pull requests. This notifies the maintainers of the project when a new pull request comes.
-
-![GitHub All Releases](https://img.shields.io/github/downloads/navendu-pottekkat/awesome-readme/total): If you are not like me and your project gets a lot of downloads(*I envy you*) then you should have a badge that shows the number of downloads! This lets others know how **Awesome** your project is and is worth contributing to.
-
-![GitHub](https://img.shields.io/github/license/navendu-pottekkat/awesome-readme)
-: This shows what kind of open-source license your project uses. This is good idea as it lets people know how they can use your project for themselves.
-
-![Tweet](https://img.shields.io/twitter/url?style=flat-square&logo=twitter&url=https%3A%2F%2Fnavendu.me%2Fnsfw-filter%2Findex.html): This is not essential but it is a cool way to let others know about your project! Clicking this button automatically opens twitter and writes a tweet about your project and link to it. All the user has to do is to click tweet. Isn't that neat?
 
 # Demo-Preview
 <!-- Add a demo for your project -->
@@ -116,33 +143,6 @@ You could also give specific instructions to how they can setup their developmen
 
 Ideally, you should keep the README simple. If you need to add more complex explanations, use a wiki. Check out [this wiki](https://github.com/navendu-pottekkat/nsfw-filter/wiki) for inspiration.
 
-# Contribute
-[(Back to top)](#table-of-contents)
-
-This is where you can let people know how they can **contribute** to your project. Some of the ways are given below.
-
-Also this shows how you can add subsections within a section.
-
-### Sponsor
-[(Back to top)](#table-of-contents)
-
-Your project is gaining traction and it is being used by thousands of people(***with this README there will be even more***). Now it would be a good time to look for people or organisations to sponsor your project. This could be because you are not generating any revenue from your project and you require money for keeping the project alive.
-
-You could add how people can sponsor your project in this section. Add your patreon or GitHub sponsor link here for easy access.
-
-A good idea is to also display the sponsors with their organisation logos or badges to show them your love!(*Someday I will get a sponsor and I can show my love*)
-
-### Adding new features or fixing bugs
-[(Back to top)](#table-of-contents)
-
-This is to give people an idea how they can raise issues or feature requests in your projects. 
-
-You could also give guidelines for submitting and issue or a pull request to your project.
-
-Personally and by standard, you should use a [issue template](https://github.com/navendu-pottekkat/nsfw-filter/blob/master/ISSUE_TEMPLATE.md) and a [pull request template](https://github.com/navendu-pottekkat/nsfw-filter/blob/master/PULL_REQ_TEMPLATE.md)(click for examples) so that when a user opens a new issue they could easily format it as per your project guidelines.
-
-You could also add contact details for people to get in touch with you regarding your project.
-
 # License
 [(Back to top)](#table-of-contents)
 
@@ -173,3 +173,38 @@ Leave a star in GitHub, give a clap in Medium and share this guide if you found 
 <!-- Add the footer here -->
 
 ![Footer](https://github.com/navendu-pottekkat/awesome-readme/blob/master/fooooooter.png)
+
+
+
+<!-- ACKNOWLEDGMENTS -->
+## Acknowledgments
+
+Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
+
+* [Choose an Open Source License](https://choosealicense.com)
+* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
+* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
+* [Malven's Grid Cheatsheet](https://grid.malven.co/)
+* [Img Shields](https://shields.io)
+* [GitHub Pages](https://pages.github.com)
+* [Font Awesome](https://fontawesome.com)
+* [React Icons](https://react-icons.github.io/react-icons/search)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/Dahimi/SQL-and-Data-Visualization-Projects.svg?style=for-the-badge
+[contributors-url]: https://github.com/Dahimi/SQL-and-Data-Visualization-Projects/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Dahimi/SQL-and-Data-Visualization-Projects.svg?style=for-the-badge
+[forks-url]: https://github.com/Dahimi/SQL-and-Data-Visualization-Projects/network/members
+[stars-shield]: https://img.shields.io/github/stars/Dahimi/SQL-and-Data-Visualization-Projects.svg?style=for-the-badge
+[stars-url]: https://github.com/Dahimi/SQL-and-Data-Visualization-Projects/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Dahimi/SQL-and-Data-Visualization-Projects.svg?style=for-the-badge
+[issues-url]: https://github.com/Dahimi/SQL-and-Data-Visualization-Projects/issues
+[license-shield]: https://img.shields.io/github/license/Dahimi/SQL-and-Data-Visualization-Projects.svg?style=for-the-badge
+[license-url]: https://github.com/Dahimi/SQL-and-Data-Visualization-Projects/blob/master/LICENSE.txt
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/soufiane-dahimi
+[product-screenshot]: images/screenshot.png
