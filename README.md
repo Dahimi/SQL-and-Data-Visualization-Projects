@@ -62,10 +62,10 @@
 <!-- Add buttons here -->
 
 ![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/Dahimi/awesome-readme?include_prereleases)
-![GitHub last commit](https://img.shields.io/github/last-commit/Dahimi/awesome-readme)
-![GitHub issues](https://img.shields.io/github/issues-raw/Dahimi/awesome-readme)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/Dahimi/awesome-readme)
-![GitHub](https://img.shields.io/github/license/Dahimi/awesome-readme)
+![GitHub last commit](https://img.shields.io/github/last-commit/Dahimi/SQL-and-Data-Visualization-Projects)
+![GitHub issues](https://img.shields.io/github/issues-raw/Dahimi/SQL-and-Data-Visualization-Projects)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/Dahimi/SQL-and-Data-Visualization-Projects)
+![GitHub](https://img.shields.io/github/license/Dahimi/SQL-and-Data-Visualization-Projects)
 
 <!-- Describe your project in brief -->
 
