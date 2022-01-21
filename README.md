@@ -41,7 +41,7 @@
     <br />
     Please scroll down to know more about this project
     <br />
-    <a href="https://github.com/Dahimi/SQL-and-Data-Visualization-Projects"><strong>Explore other projects »</strong></a>
+    <a href="https://github.com/Dahimi/"><strong>Explore other projects »</strong></a>
     <br />
     <br />
     <a href="https://github.com/Dahimi/SQL-and-Data-Visualization-Projects">View Demo</a>
