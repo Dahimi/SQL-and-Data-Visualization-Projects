@@ -69,53 +69,63 @@
 
 <!-- Describe your project in brief -->
 
-The project title should be self-explanatory and try not to make it a mouthful. (Although exceptions exist- **awesome-readme-writing-guide-for-open-source-projects** - would have been a cool name)
+In this project I did some data exploration analysis Covid Data using SQL and Python. Then I used Tableau for further analysis and Data Visualization.  
 
-# Demo-Preview
+# Project-Preview
 <!-- Add a demo for your project -->
 Here is demo of the final resualts I got in this project 
 
-![Random GIF](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+
+
+![project_demo](https://github.com/Dahimi/SQL-and-Data-Visualization-Projects/blob/main/Dashboard.png)
 
 # Table of contents
  
 - [Demo-Preview](#demo-preview)
 - [Table of contents](#table-of-contents)
+- [Built With](#Built-With)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contribute](#contribute)
 - [License](#license)
 - [Footer](#footer)
 
+# Built With
+
+
+* Python
+* Tableau
+* MySQL
+* Excel
+* SQL
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+
 # Installation
 
-*You might have noticed the **Back to top** button(if not, please notice, it's right there!). This is a good idea because it makes your README **easy to navigate.*** 
 
-The first one should be how to install(how to generally use your project or set-up for editing in their machine).
+To use this project, you just need to have RDBMS ( MySQL, SQL Server, ...) installed in your computer for data exploration. In my case I worked with my MySQL.
+To import the data to your database, this depends on you RDBMS. But in case you have troube, you could also use python for this purpose. It is fast and work with most RDBMS. 
 
-This should give the users a concrete idea with instructions on how they can use your project repo with all the steps.
+This is an example of how to do it with MySQL. You could find the complete code in the CovidData.ipynb file. As you can see I've done some preprocessing before exporting the data to MySQL. 
 
-Following this steps, **they should be able to run this in their device.**
+```
+   from sqlalchemy import create_engine
+   import MySQLdb
+```
 
-A method I use is after completing the README, I go through the instructions from scratch and check if it is working.
+```
+con  = create_engine("mysql+mysqldb://student:student@localhost/CovidData")
+```
+```
+vaccinationData.to_sql(con=con, name='Vaccination', if_exists='replace')
+```
 
-Here is a sample instruction:
-
-To use this project, first clone the repo on your device using the command below:
-
-```git init```
-
-```git clone https://github.com/Dahimi/nsfw-filter.git```
-
+Once you are done with data exploration, you could import the data into Tableau fo data visualization. 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-# Usage
-
-
-This is optional and it is used to give the user info on how to use the project after installation. This could be added in the Installation section also.
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-<!-- CONTRIBUTING -->
 # Contribute
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
@@ -159,7 +169,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 If you found this project helpful, feel free to leave a star in GitHub, and share thig project.
 
-**Now folks, it was great walking with you through this README! See you later**
+**Thank you for making it till the end of this README! See you later!**
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGMENTS -->
