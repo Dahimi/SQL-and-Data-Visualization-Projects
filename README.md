@@ -77,7 +77,7 @@ Here is demo of the final resualts I got in this project
 
 
 
-![project_demo](https://github.com/Dahimi/SQL-and-Data-Visualization-Projects/blob/main/Dashboard.png)
+![project_demo](https://github.com/Dahimi/SQL-and-Data-Visualization-Projects/blob/main/Covid%20Data%20Analysis/Dashboard.png)
 
 # Table of contents
  
@@ -194,7 +194,7 @@ Here is a list of some of the resources I found helpful and would like to give c
 [issues-shield]: https://img.shields.io/github/issues/Dahimi/SQL-and-Data-Visualization-Projects.svg?style=for-the-badge
 [issues-url]: https://github.com/Dahimi/SQL-and-Data-Visualization-Projects/issues
 [license-shield]: https://img.shields.io/github/license/Dahimi/SQL-and-Data-Visualization-Projects.svg?style=for-the-badge
-[license-url]: https://github.com/Dahimi/SQL-and-Data-Visualization-Projects/blob/master/LICENSE.txt
+[license-url]: https://github.com/Dahimi/SQL-and-Data-Visualization-Projects/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/soufiane-dahimi
 [product-screenshot]: images/screenshot.png
